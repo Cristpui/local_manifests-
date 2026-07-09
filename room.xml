@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device Tree -->
+  <project name="G9-Play-Development/android_device_motorola_guamp" path="device/motorola/guamp" remote="github" revision="16" />
+
+  <!-- Vendor Tree -->
+  <project name="G9-Play-Development/android_vendor_motorola_guamp" path="vendor/motorola/guamp" remote="github" revision="16" />
+
+  <!-- Kernel Tree -->
+  <project name="G9-Play-Development/android_kernel_motorola_sm6115" path="kernel/motorola/sm6115" remote="github" revision="16" />
+</manifest>
